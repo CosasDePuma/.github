@@ -13,4 +13,4 @@ No version of the project is supported by constant security updates. The use of 
 
 | Version | Supported |
 | --- | --- |
-| * | :x: |
+| * | ❌ |

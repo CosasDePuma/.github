@@ -1,8 +1,18 @@
-# Default files from CosasDePuma repositories.
+<div align="center">
 
-🦄 Welcome to the default files for many of the [CosasDePuma](https://github.com/cosasdepuma) repositories!
+```ocaml
+CosasDePuma's defaults
+```
 
-🚧 This repository contains common files such as [Code of Conduct](./CODE_OF_CONDUCT.md) or [Funding](./.github/FUNDING.yml) information. Everything you see here is to keep the rest of the repositories more organized!
+</div>
+
+## ℹ️ Information
+
+Welcome to the default files for many of the [CosasDePuma](https://github.com/cosasdepuma) repositories!
+
+Everything you see here is to keep the rest of the repositories more organized!
+
+> 🚧 This repository contains common files such as [Code of Conduct](./CODE_OF_CONDUCT.md), [Code Owners](./CODEOWNERS), [Funding](./FUNDING.yml) and [Security](./SECURITY.md) information.
 
 ## Acknowledgements
 
